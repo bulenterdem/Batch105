@@ -22,7 +22,7 @@ public class BChild extends AParent{
     public void method3() {
        // super.method3();
         // Overriding varssa parent ve child class'daki
-        // overridden ve averriding methodlardan sadece biri calısır
+        // overridden ve overriding methodlardan sadece biri calısır
         // eger ikisini birden calistirmak isterseniz
         // super.overridden method ismi yazilir
 
