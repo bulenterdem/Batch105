@@ -39,8 +39,6 @@ public class C04_TryCatch {
             }
 
         }
-
-
         System.out.println("Girilen "+ sayac+" adet sayilarin toplami : "+sayilarinToplami);
 
 
