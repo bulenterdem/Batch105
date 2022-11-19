@@ -7,4 +7,5 @@ public interface Interface01 {
 
     // interface'ler kendilerini parent kabul edecek child class'lar
     // icin bir blue-print (sablon) gibidir
+
 }
