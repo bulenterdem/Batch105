@@ -42,8 +42,8 @@ public class C01_EntrySet {
         aralarindaki farklar
         1- yukaridaki map bu set
         2- yukaridaki {}  kullanir bu ise []
-        3- yukaridaki key ve value'ler her eleman icin bir arada ama ayri ayri birreyler
-        Entry'de ise K=Y ikisi birlikte bir element olusturuyor
+        3- yukaridaki key ve value'ler her eleman icin bir arada ama ayri ayri bireyler
+        Entry'de ise K=V ikisi birlikte bir element olusturuyor
          */
 
         // entry seti icersindeki entryleri biz de sira numarasi vererek yazdiralim
@@ -63,7 +63,7 @@ public class C01_EntrySet {
             System.out.println(eachEntry.getKey());
         }
         // Entry'leri kullanarak tum ogrencilerin siniflarini 1 artirin
-        // 12. sinifta olan varsa map2ten cikarin
+        // 12. sinifta olan varsa map'ten cikarin
 
         // tum entry'leri elden gecirelim
 

@@ -15,7 +15,7 @@ public class C02_EntrySet {
         ogrenciMap.put(109,"Adem-Demir-11-D-Soz");
 
         // Soz,11,D,Adem,Demir,109
-        // bu formatta stringler olusturup bir treeset'e atalayan ve
+        // bu formatta stringler olusturup bir treeset'e atayan ve
         // bu seti bize donduren bir method olusturalim
 
         Set<String>siraliOgrenciListesi=MapDepo.siraliOgrenciListesiOlustur(ogrenciMap);
